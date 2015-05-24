@@ -1,0 +1,1 @@
+26 10 ÑÒÒşÏÂÈÌ Graphics\Battlers\009-Lancer01.png 50 50 10 10 0 0 10 5 5 5 5 5 Graphics\Characters\009-Lancer01.png

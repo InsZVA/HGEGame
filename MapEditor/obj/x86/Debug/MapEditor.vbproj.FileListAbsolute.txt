@@ -1,0 +1,9 @@
+C:\Users\LSF\Documents\Visual Studio 2010\Projects\hiho\Fight\MapEditor\bin\Debug\MapEditor.exe
+C:\Users\LSF\Documents\Visual Studio 2010\Projects\hiho\Fight\MapEditor\bin\Debug\MapEditor.pdb
+C:\Users\LSF\Documents\Visual Studio 2010\Projects\hiho\Fight\MapEditor\bin\Debug\MapEditor.xml
+C:\Users\LSF\Documents\Visual Studio 2010\Projects\hiho\Fight\MapEditor\obj\x86\Debug\MapEditor.Form1.resources
+C:\Users\LSF\Documents\Visual Studio 2010\Projects\hiho\Fight\MapEditor\obj\x86\Debug\MapEditor.Resources.resources
+C:\Users\LSF\Documents\Visual Studio 2010\Projects\hiho\Fight\MapEditor\obj\x86\Debug\MapEditor.vbproj.GenerateResource.Cache
+C:\Users\LSF\Documents\Visual Studio 2010\Projects\hiho\Fight\MapEditor\obj\x86\Debug\MapEditor.exe
+C:\Users\LSF\Documents\Visual Studio 2010\Projects\hiho\Fight\MapEditor\obj\x86\Debug\MapEditor.xml
+C:\Users\LSF\Documents\Visual Studio 2010\Projects\hiho\Fight\MapEditor\obj\x86\Debug\MapEditor.pdb
